@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    
+    font-size: 52px;
+    line-height: 70px;
+}
+.firstp{
+    
+    display: flex;
+    width: 475px;
+    height: 475px;
+    left: 833px;
+    top: 181px;
+   
+}
+
+
+}
+.prebook{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato );
+    padding: 10px 20px;
+    color: whitesmoke;
+    font: 700;
+    border-radius: 5px;
+}
